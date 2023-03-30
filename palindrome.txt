@@ -1,0 +1,15 @@
+algorithme palindrome
+Var
+X:integer;
+Début 
+écrire ("écrire x")
+lire (x)
+i=;  plaindrome <--vrai ;
+Répéter 
+i:=i+1;
+si ch [i]<>[long  (ch)-1]
+alors 
+palindrome <--faux 
+fin si 
+jusqu'a (i<long  (ch) div 2)ou palindrome =false);
+End.
