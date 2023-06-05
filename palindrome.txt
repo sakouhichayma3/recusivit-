@@ -1,11 +1,14 @@
 algorithme palindrome
+//declaration de variable de type enti√©  
 Var
 X:integer;
-DÈbut 
-Ècrire ("Ècrire x")
+D√©but 
+√©crire ("√©crire x")
 lire (x)
+//condition palaindrome 
 i=;  plaindrome <--vrai ;
-RÈpÈter 
+//boucle repeter 
+R√©p√©ter 
 i:=i+1;
 si ch [i]<>[long  (ch)-1]
 alors 
